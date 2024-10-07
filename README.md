@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ammar</h1>
-<h3 align="center">A Telecommunications and Electronics engineer</h3>
+<h3 align="center">Building on my Bachelor's degree in Telecommunications, I have developed a strong foundation in analytical thinking and technical problem-solving. Now, I'm applying these skills to the field of data analytics.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
